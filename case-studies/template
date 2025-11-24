@@ -1,0 +1,27 @@
+# Case Study: [Title Here]
+
+## Environment
+- Windows version / VM type
+- Tools used
+- Network settings or relevant context
+
+## Symptoms
+[What was happening? What were the errors?]
+
+## Initial Troubleshooting
+[What checks did you make first?]
+
+## Investigation
+[Step-by-step observations, what you tested, what failed, what worked]
+
+## Root Cause
+[The true source of the problem]
+
+## Resolution
+[How you fixed it]
+
+## Verification
+[How you confirmed the fix worked]
+
+## Key Takeaways
+[What you learned about systems / troubleshooting]
